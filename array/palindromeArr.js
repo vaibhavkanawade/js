@@ -21,3 +21,6 @@ function filterPal(arr) {
 
 let arr = ["madam", 121, "sir"];
 console.log(filterPal(arr));
+
+
+
