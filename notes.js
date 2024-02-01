@@ -116,7 +116,57 @@ In house auth using next auth
 
 
 //what is this keyword in javascipt?
+//this refer to the object on which method is being invoked or the object that is currently executing the function
 
 
+//what is diffence between == and === in javascipt?
+//== is also equality oprator but does not check datatypes only check values or equality
+//=== it is strict equality oprator but check datatypes as well as values
+
+//what is event delegation in javascipt?
+//event delegation is technique where a single event listener is attached to a comman anestor rather than the individual element. It utilized event bubbleing to manage events efficiently
+
+//what is promises in javascipt?
+//A promises is an object reprsenting the eventual compilation or failure of an asychronous opration
+//it allows handling asychronous oprations more effectively than using callback
+
+
+//what is Arrow function in javascipt?
+//Arrow function are concious way to write a function in javascript
+//Arrow function is ES6 introduced
+//Arrow function syntax is easy
+//does not bind their own this value
+
+//what is higher order function?
+//Higher order function are the function passed as an argument to another function and return function
+
+//what is event loop in javasript?
+//It continously checks the message queue new events to process
+
+//what is Anonymous function ?
+// //Anonymous function is that type of function that has no name or we can say which is without any name
+
+// let x = function () {
+//     console.log("It is anonymous function ");
+// };
+// x();
+
+
+//what is JSON.stringify()?
+//JSON.stringify() static method converts a javascipt value to JSON string value
+
+
+//what is BOM?
+//BOM stand for Browser object model.
+//It allows to intract with the browser.
+//A Browser initial object is window As a result you may call all of the windows functions directly or by refering the window.
+//the document history screen navigator location and other attribute are available in the window object
+
+
+
+//slice = create a new array in javascipt
+//splice = method does not create a new array
+
+//Object.values Return only value in object into the array 
 
 
