@@ -167,6 +167,25 @@ In house auth using next auth
 //slice = create a new array in javascipt
 //splice = method does not create a new array
 
-//Object.values Return only value in object into the array 
+//Object.values Return only value in object into the array
+
+//javascript is single threaded language
+//javascipt is a single threaded language because while running code on a single thread it can be really easy to implement as we don't have to deal with the complicated scenarios that arise in the multi threaded environment like a deadlock since javascipt is single threaded language it is sychronous in nature .
+
+
+//what is variable in javascipt
+//A variable in javascript is a named storage for data they are like containers that hold information Variables can store numbers,string,object and other
+
+//Variables are conatainers for storing information
+
+
+//what is function in javascipt
+//A function in javascript is a block of code designed to perform a particular task.
+//A javascipt function is executed when something invoked it
+
+//A set of statements that perform a task or calcualates a value.
+
+
+
 
 
