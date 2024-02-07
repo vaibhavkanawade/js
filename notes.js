@@ -185,6 +185,19 @@ In house auth using next auth
 
 //A set of statements that perform a task or calcualates a value.
 
+//what is difference between parameter and arguments in javscipt
+//A paramenter is one of the Variables in function And when a method is called the arguments are the data you pass into the method paramters
+
+
+//why do we need DOM in javascript
+//we can access and manipulate tags,IDs,classes ,Attributes or Elements of html using commands or methods provied by the document object
+
+
+
+//what is use of dom in javascript
+//The Documents Object Model is Programming interface for web documents . it reprsents the page so that programs can change the document structure ,style,and content
+
+
 
 
 
