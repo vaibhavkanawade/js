@@ -1,0 +1,30 @@
+Quetions:
+interview ask and all quetions:)
+1)what is javascript?
+2)what high level language?
+3)what is interpreted language?
+4)javascipt is statically type laguage or Daynamic type language why it is?
+5)javascript is sychronous or asychronous in nature?
+6)how many datatypes in javascipt?
+7)what is primitive datatype?
+9)what is non primitive datatypes why we call non-primitive datatype?
+10)Diff between == and === in js
+11)Diff between let and var?
+12)what is Hoisting? explain how its works?
+13)what is callback? explain throught example?
+14)what closure ?explain throught example?
+15)what is higher order function?
+16)what is promise? explain throught example?
+17)what is async and await and how its work?
+18)what is callbackhell?
+19)what is promise chaining?
+20)coding:
+ 1)string and Array quetions?
+ 2)count letter in the string?
+ 3)sum of odd number?
+ 4)pratice on basic program like vowel,palindrome,reverse,
+factorial,prime number,even number ,odd number,remove duplicate.
+5)practice on string and array program 
+
+
+

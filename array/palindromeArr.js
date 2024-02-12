@@ -19,7 +19,7 @@ function filterPal(arr) {
     return result;
 }
 
-let arr = ["madam", 121, "sir"];
+let arr = ["madam", "121", 121, "sir"];
 console.log(filterPal(arr));
 
 

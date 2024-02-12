@@ -1,3 +1,17 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //roadMap of fullStack developer
 /*
 Foundation
@@ -57,12 +71,43 @@ In house auth using next auth
 
 
 //what are the data types in javascript?
-
 //primitive datatype
 //1)string 2)symbol 3)null 4)number 5)undefined 6)boolean
-
 //non-primitive
 //object
+
+// let str = "Hello javascript";
+// console.log(typeof str);
+// //op:string
+
+// let num = 5;
+// console.log(typeof num);
+
+// let a = 2;
+// let b = 3;
+// console.log(typeof (a == b)); // returns false
+// let x; // value of x is undefined
+// let y = undefined; // we can also set the value of a variable as undefined
+// console.log(typeof (x, y));
+// let z = null;
+// console.log(typeof z);
+// let symbol1 = Symbol('symbol');
+// console.log(typeof symbol1);
+// let obj1 = {
+//     x: 43,
+//     y: "Hello world!",
+//     z: function () {
+//         return this.x;
+//     }
+// }
+// console.log(typeof obj1);
+
+
+
+
+
+
+
 
 
 //what is diffence between let var and const?
