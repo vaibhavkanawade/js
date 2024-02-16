@@ -1,6 +1,10 @@
 
 
-
+// #fullstackdeveloper
+// #javascript ⚡️javascript🚀
+// I am Learn In JavaScript Mean concept Hoisting &How Hoisting work?
+// @MozDevNet
+// #projectbaseLearn #Connect #LearnInPublic
 
 
 
@@ -104,11 +108,9 @@ In house auth using next auth
 
 
 
-
-
-
-
-
+// var word ="hello";
+// let letter="A";
+// const num = 12;
 
 //what is diffence between let var and const?
 //1)let and const are block scoped while var is function scope
@@ -116,8 +118,13 @@ In house auth using next auth
 //3)ES6 introduced let and const and var is before ES6 introduced
 //4)let and const redecalration not allowed but var redecalation is allowed
 
+
+
+
+
+
 //what is Hoisting in javascipt?
-//Hoisting is javascipt behavior where the variable and function declartion are moved to the top of their      containing scope during the compilation phase.
+//Hoisting is javascipt behavior where the variable and function declartion are moved to the top of their  containing scope during the compilation phase.
 
 //what is closure in javascipt?
 //closure are the function that have to access the variable from function from the another function scope is called as closure
