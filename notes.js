@@ -164,6 +164,21 @@ In house auth using next auth
 
 //what is callback Hell
 //nested callback is called callback hell
+//Que : print 1 2 3 after 2 sec
+// function hell(data, nextData) {
+//     setTimeout(() => {
+//         console.log("data", data);
+//         if (nextData) {
+//             nextData();
+//         }
+//     }, 2000);
+
+// }
+// hell(1, () => {
+//     hell(2, () => {
+//         hell(3);
+//     });
+// });
 
 
 
@@ -182,6 +197,18 @@ In house auth using next auth
 //A promises is an object reprsenting the eventual compilation or failure of an asychronous opration
 //it allows handling asychronous oprations more effectively than using callback
 
+// const promise = new Promise((resolve, reject) => {
+//     setTimeout(() => {
+//         console.log("I am Promise to You");
+//         resolve("sucess");
+//         // reject("error");
+//     }, 2000);
+// })
+// promise.then((res) => {
+//     console.log(res);
+// }).catch((error) => {
+//     console.log(error);
+// })
 
 //what is Arrow function in javascipt?
 //Arrow function are concious way to write a function in javascript
@@ -196,7 +223,7 @@ In house auth using next auth
 //It continously checks the message queue new events to process
 
 //what is Anonymous function ?
-// //Anonymous function is that type of function that has no name or we can say which is without any name
+//Anonymous function is that type of function that has no name or we can say which is without any name
 
 // let x = function () {
 //     console.log("It is anonymous function ");
@@ -250,7 +277,26 @@ In house auth using next auth
 //The Documents Object Model is Programming interface for web documents . it reprsents the page so that programs can change the document structure ,style,and content
 
 
+//async-await
+//async function always returns promise 
+//async function myFunction(){
+//}
+//await pauses the execution of its surrounding async function until the promise is settled
+
+function api() {
+    return new Promise((resolve, reject) => {
+        setTimeout(() => {
+            console.log("Data is comming...");
+            resolve(200);
+        });
+    });
+}
+
+(async function getData() {
+    await api();
+})();
 
 
+//IIFE : Immediately Invoked function Expression IIFE is a function that is called Immediately as soon as it is as it is defined
 
 
