@@ -53,8 +53,9 @@ function ganarateCard(list) {
                 editTitle = title;
 
             } else if (editBtn.innerText === "save") {
-                editTitle.innerText = card.querySelector('input[type="text"]').value;
-                editTitle = null;
+                editTitle.innerText =
+                    card.querySelector('input[type="text"]').value;
+                card.removeChild(card.querySelector('input[type="text"]'));
                 editBtn.innerText = "Edit";
             }
 
